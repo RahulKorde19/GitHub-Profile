@@ -20,10 +20,8 @@ Hi There 🤝🙌
 ### :fire: My Stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKorde19&layout=compact&theme=vision-friendly-dark)
 
-### :fire: My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulKorde19&show_icons=true&theme=radical)
 
-### :fire: My Stats :
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=RahulKorde19)
 
 
